@@ -1,11 +1,9 @@
-
 0.17.0 / 2014-03-06
 ===================
 
  * supply uri malformed error to the callback (yields)
  * add request event (yields)
  * allow simple auth (yields)
- * add request event (yields)
  * switch to component/reduce (visionmedia)
  * fix part content-disposition (mscdex)
  * add browser testing via zuul (defunctzombie)
